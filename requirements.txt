@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+playwright
+selenium
+webdriver-manager
+python-dotenv
